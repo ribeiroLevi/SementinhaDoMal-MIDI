@@ -41,6 +41,12 @@ E esses erros me fizeram compreender alguns conceitos interessantes - principalm
 ![fatiamento2](https://github.com/ribeiroLevi/MIDI-ARDUINO/assets/126264441/50aed935-d7a3-4515-b68d-18f212dce133)
 ![fatiamento](https://github.com/ribeiroLevi/MIDI-ARDUINO/assets/126264441/fae744c6-1411-4252-ad14-d7f1656c4199)
 
+#### Impressão
+![WhatsApp Image 2023-09-27 at 19 20 32](https://github.com/ribeiroLevi/MIDI-ARDUINO/assets/126264441/fa8ad9da-8341-4c16-87de-62f8809094c4)
+
+(De cima para baixo) Primeira, segunda e versão final.
+
+É interessante ressaltar que performei testes de CNC na primeira versão, por conta disso ela possui incrições em sua parte interna.
 
 ## Referência
 
