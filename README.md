@@ -33,6 +33,9 @@ E esses erros me fizeram compreender alguns conceitos interessantes - principalm
 
 ## Screenshots
 
+#### Prototipação
+![20230912_123859](https://github.com/ribeiroLevi/SementinhaDoMal-MIDI/assets/126264441/601dd7f5-786e-4272-ae9d-bd363e857f2c)
+
 #### Modelagem
 ![6](https://github.com/ribeiroLevi/MIDI-ARDUINO/assets/126264441/36d11036-7eca-494e-abf2-dfaa402518aa)
 ![3](https://github.com/ribeiroLevi/MIDI-ARDUINO/assets/126264441/bae5c77a-745a-41df-8919-5e0b9f4c82cc)
@@ -49,8 +52,8 @@ E esses erros me fizeram compreender alguns conceitos interessantes - principalm
 
 #### Render![RENDER-MIDI](https://github.com/ribeiroLevi/SementinhaDoMal-MIDI/assets/126264441/d3f8be10-5198-4479-bb61-ad14b0f597e2)
 
-
-
+#### Modelo Final
+![WhatsApp Image 2023-09-29 at 11 45 56(1)](https://github.com/ribeiroLevi/SementinhaDoMal-MIDI/assets/126264441/9484cc28-c378-4f37-b39a-cb0ad8587449)
 
 ## Referência
 
