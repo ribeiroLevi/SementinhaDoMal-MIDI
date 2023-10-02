@@ -55,6 +55,9 @@ E esses erros me fizeram compreender alguns conceitos interessantes - principalm
 #### Modelo Final
 ![WhatsApp Image 2023-09-29 at 11 45 56(1)](https://github.com/ribeiroLevi/SementinhaDoMal-MIDI/assets/126264441/9484cc28-c378-4f37-b39a-cb0ad8587449)
 
+### Lincença 
+- [MIT Lincense](https://github.com/ribeiroLevi/SementinhaDoMal-MIDI/blob/main/LICENSE.md)
+
 ## Referência
 
  - [Projeto de Leandro Linares](https://leandrolinares.com/blog/arduino-midi-controller/)
