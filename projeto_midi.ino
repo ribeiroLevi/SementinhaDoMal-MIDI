@@ -9,7 +9,7 @@ byte tempRead;
 
 void setup() {
   for (byte i = 0; i < TOTAL_BUTTONS; i++) {
-    pinMode(BUTTONS_PIN[i], INPUT_PULLUP);
+    pinMode(BUTTONS_PIN[i], INPUT);
   }
 }
 
